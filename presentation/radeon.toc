@@ -1,0 +1,14 @@
+\beamer@endinputifotherversion {3.06pt}
+\select@language {english}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Chipset Schema}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Project Goal}{8}{0}{1}
+\beamer@sectionintoc {2}{Radeon Specifics}{11}{0}{2}
+\beamer@subsectionintoc {2}{1}{Available Documentation}{11}{0}{2}
+\beamer@subsectionintoc {2}{2}{ATOMBIOS}{14}{0}{2}
+\beamer@subsectionintoc {2}{3}{Command Processor}{17}{0}{2}
+\beamer@sectionintoc {3}{Plan 9 Specifics}{24}{0}{3}
+\beamer@subsectionintoc {3}{1}{Structure of Plan 9 Graphics Drivers}{24}{0}{3}
+\beamer@sectionintoc {4}{Conclusion}{37}{0}{4}
+\beamer@subsectionintoc {4}{1}{Figures and Estimates}{37}{0}{4}
+\beamer@subsectionintoc {4}{2}{Questions}{49}{0}{4}
